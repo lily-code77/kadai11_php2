@@ -5,7 +5,7 @@ PHP12 - PHP選手権
 - 紡くっくの公式HP（作成中）
 
 ## ③DEMO
-/home/recipelab/www/kadai11_php/kadai11_php/index.php
+https://recipelab.sakura.ne.jp/kadai11_php/kadai11_php/index.php
 
 ## ④工夫した点・こだわった点
 - user毎にadmin_flgが設定されており、ログイン後に誘導されるページが違う。
